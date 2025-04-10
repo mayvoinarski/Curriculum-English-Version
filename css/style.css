@@ -80,10 +80,7 @@ li {
 .about-me{
     text-align: justify;
 }
-.page-break {
-    page-break-before: always;
-    margin-bottom: 20%;
-}
+
 .r {
     text-align: right;
 }
