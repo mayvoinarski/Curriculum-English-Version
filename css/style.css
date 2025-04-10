@@ -87,3 +87,8 @@ li {
 .r {
     text-align: right;
 }
+.r a {
+        text-decoration: none;
+        color: black;
+        margin-right: 5%;
+}
