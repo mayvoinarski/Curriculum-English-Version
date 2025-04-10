@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 2.5rem;
+}
+.container {
+    margin: auto;
+    background: #fff;
+    padding: 0.62rem 3.12rem;
+}
+.inf {
+    padding: 5px;
+}
+.contact {
+    display: flex;
+    flex-direction: column;
+    padding-right: 0.62rem;
+    align-items: flex-start;
+}
+.icons {
+    align-items: center;
+}
+.contact a {
+    text-decoration: none;
+    color: black;
+}
+
+.blue-text a{
+    color: #deb6e3;
+    padding-right: 0.62rem;
+}
+
+h2 {
+    margin-top: 2rem;
+    line-height: 0.5;
+}
+
+hr{
+    border-color: #deb6e3;
+    background-color: #deb6e3;
+    height: 1px;
+}
+
+strong {
+    font-size: 1.2rem;
+}
+
+section{
+    padding: 0.62rem auto;
+}
+
+section p {
+    font-size: 0.75rem;
+    margin-bottom: 0.75rem;
+}
+ul {
+    list-style: circle;
+}
+li {
+    padding: 0.31rem;
+}
+
+.ht {
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0.62rem 5rem;
+    align-items: center;
+}
+
+.ht__btn {
+    background-color: #deb6e3;
+    line-height: 2rem;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    margin: 0.7rem 0.3rem;
+    color: #fff;
+    font-size: 0.87rem;
+    font-weight: 550;
+}
+.about-me{
+    text-align: justify;
+}
+.page-break {
+    page-break-before: always;
+    margin-bottom: 20%;
+}
+.r {
+    text-align: right;
+}
